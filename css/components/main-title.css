@@ -1,0 +1,12 @@
+.main-title{
+    font-family: 'Fira Code';
+    font-size: 49px;
+    font-style: italic;
+    font-weight: 900;
+    text-shadow: 3px 2px #169e53;
+}
+
+.main-title.-second{
+    color: white;
+    text-shadow: 3px 2px #169e53;
+}
