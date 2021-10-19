@@ -9,8 +9,13 @@
     color:white;
     text-decoration: none;
     text-shadow: 3px 2px #339259;
+    border-radius: 90%;
 }
 
 .main-button:hover{
     transform: scale(0.9);
+}
+
+.main-button.-second{
+    border-radius: 0%;
 }
