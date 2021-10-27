@@ -1,18 +1,14 @@
 .main-action{
-    display: inline-flex;
-    align-items: center;
-    font-family: 'Fira Code';
-    font-size: 20px;
-    color:black;
+    color:#A1B5BB;
+    font-family: Inter;
+    font-style: normal;
+    margin-left: 25px;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
     text-decoration: none;
-    margin-right: 30px;
-    font-weight: 900;
 }
 
-.main-action::before{
-    content: '';
-    margin: 10px;
-    height: 10px;
-    width: 10px;
-    background-color: black;
+.main-action.-traço{
+    text-decoration-line: underline;
 }
